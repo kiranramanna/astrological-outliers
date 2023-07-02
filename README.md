@@ -1,2 +1,2 @@
 # astrological_outliers : [notebook](astrological_outliers.ipynb)
-go through medium post : 
+All the details in substack post : [unearthing-astrological-anomalies](https://lightsofveda.substack.com/p/unearthing-astrological-anomalies)
